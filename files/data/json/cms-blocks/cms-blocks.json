@@ -1,0 +1,50 @@
+{
+    "homepage-category-preview": {
+        "identifier": "homepage-category-preview",
+        "title": "Homepage Category Preview",
+        "stores": "default",
+        "content": "cms-blocks/homepage-category-preview.html"
+    },
+    "new-arrival": {
+        "identifier": "new-arrival",
+        "title": "New Arrival",
+        "stores": "default",
+        "content": "cms-blocks/new-arrival.html"
+    },
+    "featured-collections": {
+        "identifier": "featured-collections",
+        "title": "Featured Collections",
+        "stores": "default",
+        "content": "cms-blocks/featured-collections.html"
+    },
+    "top-fabric-deals": {
+        "identifier": "top-fabric-deals",
+        "title": "Top Fabric Deals",
+        "stores": "default",
+        "content": "cms-blocks/top-fabric-deals.html"
+    },
+    "men": {
+        "identifier": "men",
+        "title": "Men",
+        "stores": "default",
+        "content": "cms-blocks/men.html"
+    },
+    "women": {
+        "identifier": "women",
+        "title": "Women",
+        "stores": "default",
+        "content": "cms-blocks/women.html"
+    },
+    "home-furnishing": {
+        "identifier": "home-furnishing",
+        "title": "Home Furnishing",
+        "stores": "default",
+        "content": "cms-blocks/home-furnishing.html"
+    },
+    "accessories": {
+        "identifier": "accessories",
+        "title": "Accessories",
+        "stores": "default",
+        "content": "cms-blocks/accessories.html"
+    }
+}

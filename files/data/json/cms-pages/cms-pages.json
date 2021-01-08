@@ -1,0 +1,10 @@
+{
+  "homepage": {
+    "identifier": "home",
+    "title": "Homepage",
+    "content_heading": "",
+    "stores": "default",
+    "content": "cms-pages/homepage.html",
+    "page_width": "default"
+  }
+}

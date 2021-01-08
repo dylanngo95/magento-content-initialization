@@ -1,0 +1,37 @@
+{
+    "new-arrivals": {
+        "name": "New Arrivals",
+        "description": "New Arrivals",
+        "image": "magento.png"
+    },
+    "featured-collections": {
+        "name": "Featured Collections",
+        "description": "Featured Collections",
+        "image": "magento.png"
+    },
+    "top-fabric-deals": {
+        "name": "Top Fabric Deals",
+        "description": "Top Fabric Deals",
+        "image": "magento.png"
+    },
+    "men": {
+        "name": "Men",
+        "description": "Men",
+        "image": "magento.png"
+    },
+    "women": {
+        "name": "Women",
+        "description": "Women",
+        "image": "magento.png"
+    },
+    "home-furnishing": {
+        "name": "Home Furnishing",
+        "description": "Home Furnishing",
+        "image": "magento.png"
+    },
+    "accessories": {
+        "name": "Accessories",
+        "description": "Accessories",
+        "image": "magento.png"
+    }
+}

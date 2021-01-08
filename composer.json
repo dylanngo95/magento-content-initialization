@@ -1,0 +1,19 @@
+{
+    "name": "magento/content-initialization",
+    "description": "Content Initialization",
+    "type": "magento2-module",
+    "require": {
+        "magento/magento2-base": "^2.3.2"
+    },
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "Magento\\ContentInitialization\\": ""
+        }
+    },
+    "support": {
+        "email": "dylanngo95"
+    }
+}
